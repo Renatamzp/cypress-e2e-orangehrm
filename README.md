@@ -2,14 +2,14 @@
 
 Este proyecto implementa pruebas automatizadas de extremo a extremo para la gestión de usuarios en **OrangeHRM**, una plataforma de recursos humanos. El objetivo es demostrar conocimientos prácticos en automatización de pruebas utilizando Cypress.
 
-## 🚀 **Funcionalidades Automatizadas**
+## 🚀 **Funcionalidades automatizadas**
 
 - **Inicio de sesión** con credenciales almacenadas en fixtures.
 - **Creación dinámica de usuarios**, utilizando datos generados dinámicamente y almacenados en fixtures.
 - **Generación de reportes** con **cypress-mochawesome-reporter**.
 - **Gestión eficiente de selectores** y comandos personalizados.
 
-## 🛠️ **Tecnologías y Herramientas**
+## 🛠️ **Tecnologías y herramientas**
 
 - **Cypress**: Framework para automatización de pruebas.
 - **JavaScript (ES6)**: Lenguaje utilizado para las pruebas.
@@ -18,7 +18,7 @@ Este proyecto implementa pruebas automatizadas de extremo a extremo para la gest
 - **Selectores organizados**: Centralización de selectores CSS en un archivo dedicado.
 - **Comandos personalizados**: Simplificación de interacciones comunes.
 
-## 🧠 **Conocimientos Demostrados**
+## 🧠 **Conocimientos aplicados**
 
 - Creación y uso de **fixtures** para datos reutilizables.
 - Implementación de **comandos personalizados** para mejorar la reutilización del código.
@@ -26,7 +26,7 @@ Este proyecto implementa pruebas automatizadas de extremo a extremo para la gest
 - Generación de **reportes de pruebas automáticos**.
 - Adopción de **buenas prácticas** para evitar hardcoding.
 
-## 📈 **Posibles Mejoras Futuras**
+## 📈 **Posibles mejoras futuras**
 
 - Automatización de flujos adicionales como **edición** y **eliminación de usuarios**.
 - **Integración con un pipeline de CI/CD**.
