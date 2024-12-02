@@ -31,5 +31,5 @@ Este proyecto implementa pruebas automatizadas de extremo a extremo para la gest
 - Automatización de flujos adicionales como **edición** y **eliminación de usuarios**.
 - **Integración con un pipeline de CI/CD**.
 - Mejora en la **validación de datos dinámicos**.
-- Uso de **variables globales** para manejar credenciales de forma más segura, evitando la exposición directa de datos sensibles en los archivos de configuración.
+- Implementación de **variables globales** para manejar credenciales en proyectos reales, aumentando la seguridad y evitando la exposición de datos sensibles en archivos de configuración (en este proyecto no se aplicó debido a que se utilizó una web de prueba con datos no sensibles).
 
